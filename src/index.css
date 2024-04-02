@@ -1,0 +1,15 @@
+.slider_container {
+  width: 90%;
+  margin: auto;
+}
+
+.slider_container div {
+  height: 150px;
+}
+.slick-slide > div {
+  margin: 20px 10px;
+  background-color: red;
+}
+.slick-list {
+  margin: 0 -10px;
+}
